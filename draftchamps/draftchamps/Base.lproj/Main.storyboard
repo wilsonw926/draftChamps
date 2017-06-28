@@ -1,26 +1,129 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11134" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11106"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="n90-ty-9Wx">
+                                <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="n90-ty-9Wx" secondAttribute="height" multiplier="667:375" id="aFm-nN-itp"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="EAMMlogo" translatesAutoresizingMaskIntoConstraints="NO" id="IjN-Mi-BVV">
+                                <rect key="frame" x="39" y="43" width="286" height="183"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="286" id="58e-qq-6Oa"/>
+                                    <constraint firstAttribute="width" secondItem="IjN-Mi-BVV" secondAttribute="height" multiplier="286:183" id="6T9-Ob-82Z"/>
+                                    <constraint firstAttribute="height" constant="183" id="lfK-25-Mbw"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YdX-fV-cxH">
+                                <rect key="frame" x="74" y="256" width="199" height="49"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="49" id="EeR-WF-Gfz"/>
+                                    <constraint firstAttribute="width" secondItem="YdX-fV-cxH" secondAttribute="height" multiplier="199:49" id="akK-mn-dGw"/>
+                                    <constraint firstAttribute="width" constant="199" id="pAv-Sx-69C"/>
+                                </constraints>
+                                <state key="normal" image="Draft"/>
+                                <connections>
+                                    <segue destination="cqk-Xp-UdB" kind="show" id="839-hc-DH2"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="draftchampslogo" translatesAutoresizingMaskIntoConstraints="NO" id="wLe-4O-xGa">
+                                <rect key="frame" x="497" y="20" width="160" height="70"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="160" id="QRO-MZ-e1C"/>
+                                    <constraint firstAttribute="width" secondItem="wLe-4O-xGa" secondAttribute="height" multiplier="40:19" id="QjY-dm-qer"/>
+                                    <constraint firstAttribute="height" constant="76" id="lpd-ey-aUF"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="wLe-4O-xGa" secondAttribute="trailing" constant="-10" id="Ccc-z9-e9x"/>
+                            <constraint firstItem="n90-ty-9Wx" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="LkM-Qr-CD7"/>
+                            <constraint firstItem="n90-ty-9Wx" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="-20" id="Nvu-RU-740"/>
+                            <constraint firstItem="IjN-Mi-BVV" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="19" id="O1g-la-CKa"/>
+                            <constraint firstItem="wLe-4O-xGa" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="-6" id="Zan-F6-Ddi"/>
+                            <constraint firstItem="n90-ty-9Wx" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="ca7-uZ-bHU"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="n90-ty-9Wx" secondAttribute="bottom" id="eMH-7P-13A"/>
+                            <constraint firstItem="IjN-Mi-BVV" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="23" id="kdK-EX-LQV"/>
+                            <constraint firstItem="n90-ty-9Wx" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="kwZ-QG-FMM"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="YdX-fV-cxH" secondAttribute="bottom" constant="70" id="qO9-D4-8YU"/>
+                            <constraint firstItem="YdX-fV-cxH" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="54" id="sm0-Bq-p09"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="n90-ty-9Wx" secondAttribute="trailing" constant="-20" id="wTG-Z3-KeZ"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="118.29085457271366" y="122.40000000000001"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="WTR-sB-IBZ">
+            <objects>
+                <viewController id="cqk-Xp-UdB" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="9tk-bh-dsk"/>
+                        <viewControllerLayoutGuide type="bottom" id="5QU-0S-tyW"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="MVO-Fs-fAP">
+                        <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="stadiumlights" translatesAutoresizingMaskIntoConstraints="NO" id="R1e-YT-VGR">
+                                <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7op-bu-Pnl" userLabel="FirstCard">
+                                <rect key="frame" x="20" y="49" width="200" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <accessibility key="accessibilityConfiguration" identifier="FirstCard"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GSJ-3B-BD9" userLabel="SecondCard">
+                                <rect key="frame" x="233" y="49" width="200" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <accessibility key="accessibilityConfiguration" identifier="SecondCard"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="XZ5-EG-U73" userLabel="ThirdCard">
+                                <rect key="frame" x="447" y="49" width="200" height="240"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <accessibility key="accessibilityConfiguration" identifier="ThirdCard"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5is-cK-Xpw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="854.1229385307347" y="120.8"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Draft" width="199" height="49"/>
+        <image name="EAMMlogo" width="685" height="463"/>
+        <image name="background" width="1600" height="797"/>
+        <image name="draftchampslogo" width="497" height="217"/>
+        <image name="stadiumlights" width="1368" height="890"/>
+    </resources>
 </document>
