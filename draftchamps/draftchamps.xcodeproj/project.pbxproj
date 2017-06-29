@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8060AEDB1F03526700629729 /* stadiumlights.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8060AEDA1F03526700629729 /* stadiumlights.jpg */; };
+		806358F31F0571450051B43C /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = 806358F21F0571450051B43C /* check.png */; };
 		80AA22A21EDA85E90080BF7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80AA22A11EDA85E90080BF7F /* AppDelegate.swift */; };
 		80AA22A41EDA85E90080BF7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80AA22A31EDA85E90080BF7F /* ViewController.swift */; };
 		80AA22A71EDA85E90080BF7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80AA22A51EDA85E90080BF7F /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		8060AEDA1F03526700629729 /* stadiumlights.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stadiumlights.jpg; path = Assets.xcassets/Background/stadiumlights.jpg; sourceTree = "<group>"; };
+		806358F21F0571450051B43C /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = check.png; path = Assets.xcassets/check.png; sourceTree = "<group>"; };
 		80AA229E1EDA85E90080BF7F /* draftchamps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = draftchamps.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80AA22A11EDA85E90080BF7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80AA22A31EDA85E90080BF7F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				80AA22A51EDA85E90080BF7F /* Main.storyboard */,
 				80BA5AF91F022E6400DB519D /* Draft.png */,
 				80AA22AB1EDA85E90080BF7F /* Assets.xcassets */,
+				806358F21F0571450051B43C /* check.png */,
 				8060AEDA1F03526700629729 /* stadiumlights.jpg */,
 				80AA22AD1EDA85E90080BF7F /* LaunchScreen.storyboard */,
 				80AA22B01EDA85E90080BF7F /* Info.plist */,
@@ -244,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				806358F31F0571450051B43C /* check.png in Resources */,
 				80AA22AF1EDA85E90080BF7F /* LaunchScreen.storyboard in Resources */,
 				80BA5AFA1F022E6400DB519D /* Draft.png in Resources */,
 				8060AEDB1F03526700629729 /* stadiumlights.jpg in Resources */,
