@@ -33,6 +33,30 @@
 		8092B5FB1F4CA6340058205C /* EricWoodF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B5EF1F4CA6340058205C /* EricWoodF.png */; };
 		8092B5FC1F4CA6340058205C /* NateSolderB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B5F01F4CA6340058205C /* NateSolderB.png */; };
 		8092B5FD1F4CA6340058205C /* NateSolderF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B5F11F4CA6340058205C /* NateSolderF.png */; };
+		8092B6001F4CADB80058205C /* BrianCushingB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B5FE1F4CADB80058205C /* BrianCushingB.png */; };
+		8092B6011F4CADB80058205C /* BrianCushingF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B5FF1F4CADB80058205C /* BrianCushingF.png */; };
+		8092B6041F4CAE3D0058205C /* BrandonBoykinB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6021F4CAE3D0058205C /* BrandonBoykinB.png */; };
+		8092B6051F4CAE3D0058205C /* BrandonBoykinF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6031F4CAE3D0058205C /* BrandonBoykinF.png */; };
+		8092B6081F4CAEBC0058205C /* EricReidB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6061F4CAEBC0058205C /* EricReidB.png */; };
+		8092B6091F4CAEBC0058205C /* EricReidF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6071F4CAEBC0058205C /* EricReidF.png */; };
+		8092B60C1F4CAF800058205C /* JanorisJenkinsB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B60A1F4CAF800058205C /* JanorisJenkinsB.png */; };
+		8092B60D1F4CAF800058205C /* JanorisJenkinsF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B60B1F4CAF800058205C /* JanorisJenkinsF.png */; };
+		8092B6101F4CB0140058205C /* AlecOgletreeB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B60E1F4CB0140058205C /* AlecOgletreeB.png */; };
+		8092B6111F4CB0140058205C /* AlecOgletreeF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B60F1F4CB0140058205C /* AlecOgletreeF.png */; };
+		8092B6141F4CB0840058205C /* StephenPaeaB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6121F4CB0840058205C /* StephenPaeaB.png */; };
+		8092B6151F4CB0840058205C /* StephenPaeaF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6131F4CB0840058205C /* StephenPaeaF.png */; };
+		8092B6221F4CB2270058205C /* KennyVaccaroB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6161F4CB2270058205C /* KennyVaccaroB.png */; };
+		8092B6231F4CB2270058205C /* KennyVaccaroF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6171F4CB2270058205C /* KennyVaccaroF.png */; };
+		8092B6241F4CB2270058205C /* AlWoodB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6181F4CB2270058205C /* AlWoodB.png */; };
+		8092B6251F4CB2270058205C /* AlWoodF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6191F4CB2270058205C /* AlWoodF.png */; };
+		8092B6261F4CB2270058205C /* DannyTrevathanB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61A1F4CB2270058205C /* DannyTrevathanB.png */; };
+		8092B6271F4CB2270058205C /* DannyTrevathanF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61B1F4CB2270058205C /* DannyTrevathanF.png */; };
+		8092B6281F4CB2270058205C /* ChrisBakerB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61C1F4CB2270058205C /* ChrisBakerB.png */; };
+		8092B6291F4CB2270058205C /* ChrisBakerF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61D1F4CB2270058205C /* ChrisBakerF.png */; };
+		8092B62A1F4CB2270058205C /* AkeemAyersB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61E1F4CB2270058205C /* AkeemAyersB.png */; };
+		8092B62B1F4CB2270058205C /* AkeemAyersF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61F1F4CB2270058205C /* AkeemAyersF.png */; };
+		8092B62C1F4CB2270058205C /* FrosteeRuckerB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6201F4CB2270058205C /* FrosteeRuckerB.png */; };
+		8092B62D1F4CB2270058205C /* FrosteeRuckerF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6211F4CB2270058205C /* FrosteeRuckerF.png */; };
 		80A09D2A1F3FBB0B001A5BC3 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A09D291F3FBB0B001A5BC3 /* Player.swift */; };
 		80A09D2C1F3FC2EC001A5BC3 /* myteambackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80A09D2B1F3FC2EC001A5BC3 /* myteambackground.jpg */; };
 		80A09D2E1F3FC428001A5BC3 /* defensebackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80A09D2D1F3FC428001A5BC3 /* defensebackground.jpg */; };
@@ -91,6 +115,30 @@
 		8092B5EF1F4CA6340058205C /* EricWoodF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EricWoodF.png; sourceTree = "<group>"; };
 		8092B5F01F4CA6340058205C /* NateSolderB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NateSolderB.png; sourceTree = "<group>"; };
 		8092B5F11F4CA6340058205C /* NateSolderF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NateSolderF.png; sourceTree = "<group>"; };
+		8092B5FE1F4CADB80058205C /* BrianCushingB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BrianCushingB.png; path = "Assets.xcassets/Players-1/BrianCushingB.png"; sourceTree = "<group>"; };
+		8092B5FF1F4CADB80058205C /* BrianCushingF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BrianCushingF.png; path = "Assets.xcassets/Players-1/BrianCushingF.png"; sourceTree = "<group>"; };
+		8092B6021F4CAE3D0058205C /* BrandonBoykinB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BrandonBoykinB.png; path = "Assets.xcassets/Players-1/BrandonBoykinB.png"; sourceTree = "<group>"; };
+		8092B6031F4CAE3D0058205C /* BrandonBoykinF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BrandonBoykinF.png; path = "Assets.xcassets/Players-1/BrandonBoykinF.png"; sourceTree = "<group>"; };
+		8092B6061F4CAEBC0058205C /* EricReidB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = EricReidB.png; path = "Assets.xcassets/Players-1/EricReidB.png"; sourceTree = "<group>"; };
+		8092B6071F4CAEBC0058205C /* EricReidF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = EricReidF.png; path = "Assets.xcassets/Players-1/EricReidF.png"; sourceTree = "<group>"; };
+		8092B60A1F4CAF800058205C /* JanorisJenkinsB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = JanorisJenkinsB.png; path = "Assets.xcassets/Players-1/JanorisJenkinsB.png"; sourceTree = "<group>"; };
+		8092B60B1F4CAF800058205C /* JanorisJenkinsF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = JanorisJenkinsF.png; path = "Assets.xcassets/Players-1/JanorisJenkinsF.png"; sourceTree = "<group>"; };
+		8092B60E1F4CB0140058205C /* AlecOgletreeB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AlecOgletreeB.png; path = "Assets.xcassets/Players-1/AlecOgletreeB.png"; sourceTree = "<group>"; };
+		8092B60F1F4CB0140058205C /* AlecOgletreeF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AlecOgletreeF.png; path = "Assets.xcassets/Players-1/AlecOgletreeF.png"; sourceTree = "<group>"; };
+		8092B6121F4CB0840058205C /* StephenPaeaB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StephenPaeaB.png; path = "Assets.xcassets/Players-1/StephenPaeaB.png"; sourceTree = "<group>"; };
+		8092B6131F4CB0840058205C /* StephenPaeaF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = StephenPaeaF.png; path = "Assets.xcassets/Players-1/StephenPaeaF.png"; sourceTree = "<group>"; };
+		8092B6161F4CB2270058205C /* KennyVaccaroB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = KennyVaccaroB.png; path = "Assets.xcassets/Players-1/KennyVaccaroB.png"; sourceTree = "<group>"; };
+		8092B6171F4CB2270058205C /* KennyVaccaroF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = KennyVaccaroF.png; path = "Assets.xcassets/Players-1/KennyVaccaroF.png"; sourceTree = "<group>"; };
+		8092B6181F4CB2270058205C /* AlWoodB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AlWoodB.png; path = "Assets.xcassets/Players-1/AlWoodB.png"; sourceTree = "<group>"; };
+		8092B6191F4CB2270058205C /* AlWoodF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AlWoodF.png; path = "Assets.xcassets/Players-1/AlWoodF.png"; sourceTree = "<group>"; };
+		8092B61A1F4CB2270058205C /* DannyTrevathanB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DannyTrevathanB.png; path = "Assets.xcassets/Players-1/DannyTrevathanB.png"; sourceTree = "<group>"; };
+		8092B61B1F4CB2270058205C /* DannyTrevathanF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = DannyTrevathanF.png; path = "Assets.xcassets/Players-1/DannyTrevathanF.png"; sourceTree = "<group>"; };
+		8092B61C1F4CB2270058205C /* ChrisBakerB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ChrisBakerB.png; path = "Assets.xcassets/Players-1/ChrisBakerB.png"; sourceTree = "<group>"; };
+		8092B61D1F4CB2270058205C /* ChrisBakerF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ChrisBakerF.png; path = "Assets.xcassets/Players-1/ChrisBakerF.png"; sourceTree = "<group>"; };
+		8092B61E1F4CB2270058205C /* AkeemAyersB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AkeemAyersB.png; path = "Assets.xcassets/Players-1/AkeemAyersB.png"; sourceTree = "<group>"; };
+		8092B61F1F4CB2270058205C /* AkeemAyersF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AkeemAyersF.png; path = "Assets.xcassets/Players-1/AkeemAyersF.png"; sourceTree = "<group>"; };
+		8092B6201F4CB2270058205C /* FrosteeRuckerB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FrosteeRuckerB.png; path = "Assets.xcassets/Players-1/FrosteeRuckerB.png"; sourceTree = "<group>"; };
+		8092B6211F4CB2270058205C /* FrosteeRuckerF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FrosteeRuckerF.png; path = "Assets.xcassets/Players-1/FrosteeRuckerF.png"; sourceTree = "<group>"; };
 		80A09D291F3FBB0B001A5BC3 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = ../Player.swift; sourceTree = "<group>"; };
 		80A09D2B1F3FC2EC001A5BC3 /* myteambackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = myteambackground.jpg; path = Assets.xcassets/Background/myteambackground.jpg; sourceTree = "<group>"; };
 		80A09D2D1F3FC428001A5BC3 /* defensebackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = defensebackground.jpg; path = Assets.xcassets/Background/defensebackground.jpg; sourceTree = "<group>"; };
@@ -141,6 +189,28 @@
 			children = (
 				8092B5E61F4CA6340058205C /* MichaelSchofieldB.png */,
 				8092B5E71F4CA6340058205C /* MichaelSchofieldF.png */,
+				8092B6021F4CAE3D0058205C /* BrandonBoykinB.png */,
+				8092B6031F4CAE3D0058205C /* BrandonBoykinF.png */,
+				8092B6161F4CB2270058205C /* KennyVaccaroB.png */,
+				8092B6171F4CB2270058205C /* KennyVaccaroF.png */,
+				8092B6181F4CB2270058205C /* AlWoodB.png */,
+				8092B6191F4CB2270058205C /* AlWoodF.png */,
+				8092B61A1F4CB2270058205C /* DannyTrevathanB.png */,
+				8092B61B1F4CB2270058205C /* DannyTrevathanF.png */,
+				8092B61C1F4CB2270058205C /* ChrisBakerB.png */,
+				8092B61D1F4CB2270058205C /* ChrisBakerF.png */,
+				8092B61E1F4CB2270058205C /* AkeemAyersB.png */,
+				8092B61F1F4CB2270058205C /* AkeemAyersF.png */,
+				8092B6201F4CB2270058205C /* FrosteeRuckerB.png */,
+				8092B6211F4CB2270058205C /* FrosteeRuckerF.png */,
+				8092B6121F4CB0840058205C /* StephenPaeaB.png */,
+				8092B6131F4CB0840058205C /* StephenPaeaF.png */,
+				8092B60E1F4CB0140058205C /* AlecOgletreeB.png */,
+				8092B60F1F4CB0140058205C /* AlecOgletreeF.png */,
+				8092B5FE1F4CADB80058205C /* BrianCushingB.png */,
+				8092B60A1F4CAF800058205C /* JanorisJenkinsB.png */,
+				8092B60B1F4CAF800058205C /* JanorisJenkinsF.png */,
+				8092B5FF1F4CADB80058205C /* BrianCushingF.png */,
 				8092B5E81F4CA6340058205C /* JahReidB.png */,
 				8092B5E91F4CA6340058205C /* JahReidF.png */,
 				8092B5EA1F4CA6340058205C /* VirgilGreenB.png */,
@@ -156,6 +226,8 @@
 				8092B5D41F4CA3C10058205C /* JohnBrownB.png */,
 				8092B5D51F4CA3C10058205C /* JohnBrownF.png */,
 				8092B5D61F4CA3C10058205C /* AllenRobinsonB.png */,
+				8092B6061F4CAEBC0058205C /* EricReidB.png */,
+				8092B6071F4CAEBC0058205C /* EricReidF.png */,
 				8092B5D71F4CA3C10058205C /* AllenRobinsonF.png */,
 				8092B5D81F4CA3C10058205C /* MikeTolbertB.png */,
 				8092B5D91F4CA3C10058205C /* MikeTolbertF.png */,
@@ -337,37 +409,61 @@
 			buildActionMask = 2147483647;
 			files = (
 				8092B5D01F4CA1B60058205C /* AlexSmithF.png in Resources */,
+				8092B6271F4CB2270058205C /* DannyTrevathanF.png in Resources */,
+				8092B6091F4CAEBC0058205C /* EricReidF.png in Resources */,
 				8092B5E11F4CA3C10058205C /* AllenRobinsonF.png in Resources */,
 				8092B5F91F4CA6340058205C /* BrandonFuscoF.png in Resources */,
+				8092B6051F4CAE3D0058205C /* BrandonBoykinF.png in Resources */,
+				8092B6041F4CAE3D0058205C /* BrandonBoykinB.png in Resources */,
 				8092B5DD1F4CA3C10058205C /* TavonAustinF.png in Resources */,
 				806358F31F0571450051B43C /* check.png in Resources */,
 				8092B5E21F4CA3C10058205C /* MikeTolbertB.png in Resources */,
+				8092B6291F4CB2270058205C /* ChrisBakerF.png in Resources */,
 				8092B5E31F4CA3C10058205C /* MikeTolbertF.png in Resources */,
 				80AA22AF1EDA85E90080BF7F /* LaunchScreen.storyboard in Resources */,
 				8092B5DC1F4CA3C10058205C /* TavonAustinB.png in Resources */,
 				80BA5AFA1F022E6400DB519D /* Draft.png in Resources */,
+				8092B6221F4CB2270058205C /* KennyVaccaroB.png in Resources */,
 				8092B5FB1F4CA6340058205C /* EricWoodF.png in Resources */,
+				8092B6241F4CB2270058205C /* AlWoodB.png in Resources */,
 				8092B5DF1F4CA3C10058205C /* JohnBrownF.png in Resources */,
 				8092B5F31F4CA6340058205C /* MichaelSchofieldF.png in Resources */,
 				8060AEDB1F03526700629729 /* stadiumlights.jpg in Resources */,
+				8092B6281F4CB2270058205C /* ChrisBakerB.png in Resources */,
 				8092B5F61F4CA6340058205C /* VirgilGreenB.png in Resources */,
 				8092B5F51F4CA6340058205C /* JahReidF.png in Resources */,
+				8092B6151F4CB0840058205C /* StephenPaeaF.png in Resources */,
 				8092B5CF1F4CA1B60058205C /* AlexSmithB.png in Resources */,
+				8092B6111F4CB0140058205C /* AlecOgletreeF.png in Resources */,
 				8092B5DE1F4CA3C10058205C /* JohnBrownB.png in Resources */,
+				8092B6001F4CADB80058205C /* BrianCushingB.png in Resources */,
 				80AA22AC1EDA85E90080BF7F /* Assets.xcassets in Resources */,
 				80A09D2C1F3FC2EC001A5BC3 /* myteambackground.jpg in Resources */,
 				8092B5FC1F4CA6340058205C /* NateSolderB.png in Resources */,
 				80A09D2E1F3FC428001A5BC3 /* defensebackground.jpg in Resources */,
+				8092B60C1F4CAF800058205C /* JanorisJenkinsB.png in Resources */,
 				8092B5F71F4CA6340058205C /* VirgilGreenF.png in Resources */,
+				8092B60D1F4CAF800058205C /* JanorisJenkinsF.png in Resources */,
 				8092B5E41F4CA3C10058205C /* DavidJohnsonB.png in Resources */,
 				8092B5E51F4CA3C10058205C /* DavidJohnsonF.png in Resources */,
 				8092B5FD1F4CA6340058205C /* NateSolderF.png in Resources */,
+				8092B62D1F4CB2270058205C /* FrosteeRuckerF.png in Resources */,
+				8092B6101F4CB0140058205C /* AlecOgletreeB.png in Resources */,
 				80AA22A71EDA85E90080BF7F /* Main.storyboard in Resources */,
+				8092B62C1F4CB2270058205C /* FrosteeRuckerB.png in Resources */,
+				8092B6141F4CB0840058205C /* StephenPaeaB.png in Resources */,
 				8092B5FA1F4CA6340058205C /* EricWoodB.png in Resources */,
+				8092B62B1F4CB2270058205C /* AkeemAyersF.png in Resources */,
 				8092B5F81F4CA6340058205C /* BrandonFuscoB.png in Resources */,
+				8092B6231F4CB2270058205C /* KennyVaccaroF.png in Resources */,
+				8092B6251F4CB2270058205C /* AlWoodF.png in Resources */,
 				8092B5E01F4CA3C10058205C /* AllenRobinsonB.png in Resources */,
+				8092B6011F4CADB80058205C /* BrianCushingF.png in Resources */,
 				8092B5F21F4CA6340058205C /* MichaelSchofieldB.png in Resources */,
+				8092B62A1F4CB2270058205C /* AkeemAyersB.png in Resources */,
 				8092B5F41F4CA6340058205C /* JahReidB.png in Resources */,
+				8092B6081F4CAEBC0058205C /* EricReidB.png in Resources */,
+				8092B6261F4CB2270058205C /* DannyTrevathanB.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -379,51 +379,51 @@
                                     <segue destination="cqk-Xp-UdB" kind="show" id="cru-wZ-pxv"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZYi-wu-k0B" userLabel="FS">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="EricReidF" translatesAutoresizingMaskIntoConstraints="NO" id="ZYi-wu-k0B" userLabel="FS">
                                 <rect key="frame" x="46" y="66" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ib7-CG-VsR" userLabel="ROLB">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AkeemAyersF" translatesAutoresizingMaskIntoConstraints="NO" id="Ib7-CG-VsR" userLabel="ROLB">
                                 <rect key="frame" x="434" y="66" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="JDQ-qp-2Fb" userLabel="SS">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="KennyVaccaroF" translatesAutoresizingMaskIntoConstraints="NO" id="JDQ-qp-2Fb" userLabel="SS">
                                 <rect key="frame" x="531" y="66" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0nU-md-pkd" userLabel="MLB2">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DannyTrevathanF" translatesAutoresizingMaskIntoConstraints="NO" id="0nU-md-pkd" userLabel="MLB2">
                                 <rect key="frame" x="337" y="66" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wKp-q3-Maw" userLabel="MLB1">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="BrianCushingF" translatesAutoresizingMaskIntoConstraints="NO" id="wKp-q3-Maw" userLabel="MLB1">
                                 <rect key="frame" x="240" y="66" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pb1-v6-CGf" userLabel="LOLB">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AlecOgletreeF" translatesAutoresizingMaskIntoConstraints="NO" id="pb1-v6-CGf" userLabel="LOLB">
                                 <rect key="frame" x="143" y="66" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GJ1-Hh-DDK" userLabel="CB1">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="BrandonBoykinF" translatesAutoresizingMaskIntoConstraints="NO" id="GJ1-Hh-DDK" userLabel="CB1">
                                 <rect key="frame" x="46" y="212" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zNf-lz-lD9" userLabel="RE">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="FrosteeRuckerF" translatesAutoresizingMaskIntoConstraints="NO" id="zNf-lz-lD9" userLabel="RE">
                                 <rect key="frame" x="434" y="212" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0u3-Iq-uvo" userLabel="CB2">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="JanorisJenkinsF" translatesAutoresizingMaskIntoConstraints="NO" id="0u3-Iq-uvo" userLabel="CB2">
                                 <rect key="frame" x="531" y="212" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5jx-uW-W2Z" userLabel="DT2">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AlWoodF" translatesAutoresizingMaskIntoConstraints="NO" id="5jx-uW-W2Z" userLabel="DT2">
                                 <rect key="frame" x="337" y="212" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6xz-KA-GcS" userLabel="DT1">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ChrisBakerF" translatesAutoresizingMaskIntoConstraints="NO" id="6xz-KA-GcS" userLabel="DT1">
                                 <rect key="frame" x="240" y="212" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7wm-j3-3qa" userLabel="LE">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="StephenPaeaF" translatesAutoresizingMaskIntoConstraints="NO" id="7wm-j3-3qa" userLabel="LE">
                                 <rect key="frame" x="143" y="212" width="89" height="112"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -437,18 +437,30 @@
         </scene>
     </scenes>
     <resources>
+        <image name="AkeemAyersF" width="252" height="318"/>
+        <image name="AlWoodF" width="253" height="319"/>
+        <image name="AlecOgletreeF" width="252" height="321"/>
         <image name="AlexSmithF" width="250" height="319"/>
         <image name="AllenRobinsonF" width="251" height="321"/>
+        <image name="BrandonBoykinF" width="253" height="318"/>
         <image name="BrandonFuscoF" width="252" height="317"/>
+        <image name="BrianCushingF" width="253" height="322"/>
+        <image name="ChrisBakerF" width="253" height="316"/>
+        <image name="DannyTrevathanF" width="250" height="319"/>
         <image name="DavidJohnsonF" width="252" height="319"/>
         <image name="Draft" width="199" height="49"/>
         <image name="EAMMlogo" width="685" height="463"/>
+        <image name="EricReidF" width="253" height="322"/>
         <image name="EricWoodF" width="253" height="319"/>
+        <image name="FrosteeRuckerF" width="251" height="320"/>
         <image name="JahReidF" width="252" height="321"/>
+        <image name="JanorisJenkinsF" width="251" height="320"/>
         <image name="JohnBrownF" width="253" height="318"/>
+        <image name="KennyVaccaroF" width="251" height="320"/>
         <image name="MichaelSchofieldF" width="254" height="321"/>
         <image name="MikeTolbertF" width="253" height="321"/>
         <image name="NateSolderF" width="251" height="321"/>
+        <image name="StephenPaeaF" width="251" height="320"/>
         <image name="TavonAustinF" width="251" height="320"/>
         <image name="VickB" width="252" height="334"/>
         <image name="VickF" width="252" height="320"/>
@@ -462,6 +474,6 @@
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="hjD-Qo-swN"/>
-        <segue reference="dbU-hx-aNL"/>
+        <segue reference="cru-wZ-pxv"/>
     </inferredMetricsTieBreakers>
 </document>
