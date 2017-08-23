@@ -57,6 +57,12 @@
 		8092B62B1F4CB2270058205C /* AkeemAyersF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B61F1F4CB2270058205C /* AkeemAyersF.png */; };
 		8092B62C1F4CB2270058205C /* FrosteeRuckerB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6201F4CB2270058205C /* FrosteeRuckerB.png */; };
 		8092B62D1F4CB2270058205C /* FrosteeRuckerF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6211F4CB2270058205C /* FrosteeRuckerF.png */; };
+		8092B6341F4D1CFD0058205C /* TomBradyB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B62E1F4D1CFD0058205C /* TomBradyB.png */; };
+		8092B6351F4D1CFD0058205C /* TomBradyF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B62F1F4D1CFD0058205C /* TomBradyF.png */; };
+		8092B6361F4D1CFD0058205C /* AaronRodgersB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6301F4D1CFD0058205C /* AaronRodgersB.png */; };
+		8092B6371F4D1CFD0058205C /* AaronRodgersF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6311F4D1CFD0058205C /* AaronRodgersF.png */; };
+		8092B6381F4D1CFD0058205C /* PeytonManningB.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6321F4D1CFD0058205C /* PeytonManningB.png */; };
+		8092B6391F4D1CFD0058205C /* PeytonManningF.png in Resources */ = {isa = PBXBuildFile; fileRef = 8092B6331F4D1CFD0058205C /* PeytonManningF.png */; };
 		80A09D2A1F3FBB0B001A5BC3 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A09D291F3FBB0B001A5BC3 /* Player.swift */; };
 		80A09D2C1F3FC2EC001A5BC3 /* myteambackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80A09D2B1F3FC2EC001A5BC3 /* myteambackground.jpg */; };
 		80A09D2E1F3FC428001A5BC3 /* defensebackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80A09D2D1F3FC428001A5BC3 /* defensebackground.jpg */; };
@@ -139,6 +145,12 @@
 		8092B61F1F4CB2270058205C /* AkeemAyersF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AkeemAyersF.png; path = "Assets.xcassets/Players-1/AkeemAyersF.png"; sourceTree = "<group>"; };
 		8092B6201F4CB2270058205C /* FrosteeRuckerB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FrosteeRuckerB.png; path = "Assets.xcassets/Players-1/FrosteeRuckerB.png"; sourceTree = "<group>"; };
 		8092B6211F4CB2270058205C /* FrosteeRuckerF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FrosteeRuckerF.png; path = "Assets.xcassets/Players-1/FrosteeRuckerF.png"; sourceTree = "<group>"; };
+		8092B62E1F4D1CFD0058205C /* TomBradyB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TomBradyB.png; path = "Assets.xcassets/Players-1/TomBradyB.png"; sourceTree = "<group>"; };
+		8092B62F1F4D1CFD0058205C /* TomBradyF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TomBradyF.png; path = "Assets.xcassets/Players-1/TomBradyF.png"; sourceTree = "<group>"; };
+		8092B6301F4D1CFD0058205C /* AaronRodgersB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AaronRodgersB.png; path = "Assets.xcassets/Players-1/AaronRodgersB.png"; sourceTree = "<group>"; };
+		8092B6311F4D1CFD0058205C /* AaronRodgersF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AaronRodgersF.png; path = "Assets.xcassets/Players-1/AaronRodgersF.png"; sourceTree = "<group>"; };
+		8092B6321F4D1CFD0058205C /* PeytonManningB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = PeytonManningB.png; path = "Assets.xcassets/Players-1/PeytonManningB.png"; sourceTree = "<group>"; };
+		8092B6331F4D1CFD0058205C /* PeytonManningF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = PeytonManningF.png; path = "Assets.xcassets/Players-1/PeytonManningF.png"; sourceTree = "<group>"; };
 		80A09D291F3FBB0B001A5BC3 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = ../Player.swift; sourceTree = "<group>"; };
 		80A09D2B1F3FC2EC001A5BC3 /* myteambackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = myteambackground.jpg; path = Assets.xcassets/Background/myteambackground.jpg; sourceTree = "<group>"; };
 		80A09D2D1F3FC428001A5BC3 /* defensebackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = defensebackground.jpg; path = Assets.xcassets/Background/defensebackground.jpg; sourceTree = "<group>"; };
@@ -189,6 +201,12 @@
 			children = (
 				8092B5E61F4CA6340058205C /* MichaelSchofieldB.png */,
 				8092B5E71F4CA6340058205C /* MichaelSchofieldF.png */,
+				8092B62E1F4D1CFD0058205C /* TomBradyB.png */,
+				8092B62F1F4D1CFD0058205C /* TomBradyF.png */,
+				8092B6301F4D1CFD0058205C /* AaronRodgersB.png */,
+				8092B6311F4D1CFD0058205C /* AaronRodgersF.png */,
+				8092B6321F4D1CFD0058205C /* PeytonManningB.png */,
+				8092B6331F4D1CFD0058205C /* PeytonManningF.png */,
 				8092B6021F4CAE3D0058205C /* BrandonBoykinB.png */,
 				8092B6031F4CAE3D0058205C /* BrandonBoykinF.png */,
 				8092B6161F4CB2270058205C /* KennyVaccaroB.png */,
@@ -417,12 +435,16 @@
 				8092B6041F4CAE3D0058205C /* BrandonBoykinB.png in Resources */,
 				8092B5DD1F4CA3C10058205C /* TavonAustinF.png in Resources */,
 				806358F31F0571450051B43C /* check.png in Resources */,
+				8092B6381F4D1CFD0058205C /* PeytonManningB.png in Resources */,
 				8092B5E21F4CA3C10058205C /* MikeTolbertB.png in Resources */,
 				8092B6291F4CB2270058205C /* ChrisBakerF.png in Resources */,
 				8092B5E31F4CA3C10058205C /* MikeTolbertF.png in Resources */,
+				8092B6341F4D1CFD0058205C /* TomBradyB.png in Resources */,
+				8092B6371F4D1CFD0058205C /* AaronRodgersF.png in Resources */,
 				80AA22AF1EDA85E90080BF7F /* LaunchScreen.storyboard in Resources */,
 				8092B5DC1F4CA3C10058205C /* TavonAustinB.png in Resources */,
 				80BA5AFA1F022E6400DB519D /* Draft.png in Resources */,
+				8092B6351F4D1CFD0058205C /* TomBradyF.png in Resources */,
 				8092B6221F4CB2270058205C /* KennyVaccaroB.png in Resources */,
 				8092B5FB1F4CA6340058205C /* EricWoodF.png in Resources */,
 				8092B6241F4CB2270058205C /* AlWoodB.png in Resources */,
@@ -438,6 +460,7 @@
 				8092B5DE1F4CA3C10058205C /* JohnBrownB.png in Resources */,
 				8092B6001F4CADB80058205C /* BrianCushingB.png in Resources */,
 				80AA22AC1EDA85E90080BF7F /* Assets.xcassets in Resources */,
+				8092B6391F4D1CFD0058205C /* PeytonManningF.png in Resources */,
 				80A09D2C1F3FC2EC001A5BC3 /* myteambackground.jpg in Resources */,
 				8092B5FC1F4CA6340058205C /* NateSolderB.png in Resources */,
 				80A09D2E1F3FC428001A5BC3 /* defensebackground.jpg in Resources */,
@@ -458,6 +481,7 @@
 				8092B6231F4CB2270058205C /* KennyVaccaroF.png in Resources */,
 				8092B6251F4CB2270058205C /* AlWoodF.png in Resources */,
 				8092B5E01F4CA3C10058205C /* AllenRobinsonB.png in Resources */,
+				8092B6361F4D1CFD0058205C /* AaronRodgersB.png in Resources */,
 				8092B6011F4CADB80058205C /* BrianCushingF.png in Resources */,
 				8092B5F21F4CA6340058205C /* MichaelSchofieldB.png in Resources */,
 				8092B62A1F4CB2270058205C /* AkeemAyersB.png in Resources */,
