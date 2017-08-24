@@ -10,13 +10,21 @@
 import Foundation
 import UIKit
 
-class Snap {
+class Player {
     
     var overall: Int?
     var playerPic: UIImage?
     var statsPic: UIImage?
     var name: String = ""
     var position: Int?
+    
+    init(imageToPost frontimage: UIImage, backimage: UIImage, name: String, position: Int, overall: Int) {
+        self.playerPic = frontimage
+        self.statsPic = backimage
+        self.name = name
+        self.position = position
+        self.overall = overall
+    }
     
 }
 

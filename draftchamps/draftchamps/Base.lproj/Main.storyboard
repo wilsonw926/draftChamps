@@ -11,10 +11,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Title Screen-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Title Screen" id="BYZ-38-t0r" customClass="ViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -79,10 +79,10 @@
             </objects>
             <point key="canvasLocation" x="118.29085457271366" y="122.40000000000001"/>
         </scene>
-        <!--View Controller-->
+        <!--Main Screen-->
         <scene sceneID="WTR-sB-IBZ">
             <objects>
-                <viewController id="cqk-Xp-UdB" sceneMemberID="viewController">
+                <viewController title="Main Screen" id="cqk-Xp-UdB" customClass="MainScreenViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="9tk-bh-dsk"/>
                         <viewControllerLayoutGuide type="bottom" id="5QU-0S-tyW"/>
@@ -222,15 +222,22 @@
                             <constraint firstItem="XZ5-EG-U73" firstAttribute="leading" secondItem="GSJ-3B-BD9" secondAttribute="trailing" constant="49" id="zUF-BM-YP7"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="FirstCard" destination="7op-bu-Pnl" id="ogq-N1-2pY"/>
+                        <outlet property="Overall" destination="TQu-1c-Ugn" id="6BJ-gZ-hON"/>
+                        <outlet property="RoundNum" destination="0JQ-MF-rzf" id="YEo-7d-bZn"/>
+                        <outlet property="SecondCard" destination="GSJ-3B-BD9" id="2cN-nh-zJ8"/>
+                        <outlet property="ThirdCard" destination="XZ5-EG-U73" id="DPK-Zo-ZyA"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5is-cK-Xpw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="853.22338830584715" y="119.2"/>
         </scene>
-        <!--View Controller-->
+        <!--Offense-->
         <scene sceneID="ouB-uP-K6L">
             <objects>
-                <viewController id="ASx-bv-GHE" sceneMemberID="viewController">
+                <viewController title="Offense" id="ASx-bv-GHE" customClass="OffenseViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="PU4-bg-j1d"/>
                         <viewControllerLayoutGuide type="bottom" id="w5G-Gl-ZN2"/>
@@ -307,10 +314,10 @@
             </objects>
             <point key="canvasLocation" x="484.40779610194909" y="968.79999999999995"/>
         </scene>
-        <!--View Controller-->
+        <!--Card Stats-->
         <scene sceneID="KhP-W6-RvK">
             <objects>
-                <viewController id="5Xb-Ub-7h1" sceneMemberID="viewController">
+                <viewController title="Card Stats" id="5Xb-Ub-7h1" customClass="CardStatsViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="737-oH-lPG"/>
                         <viewControllerLayoutGuide type="bottom" id="aLp-uZ-RrM"/>
@@ -355,10 +362,10 @@
             </objects>
             <point key="canvasLocation" x="1610.6446776611695" y="117.59999999999999"/>
         </scene>
-        <!--View Controller-->
+        <!--Defense-->
         <scene sceneID="Dfh-xH-EMc">
             <objects>
-                <viewController id="0fN-TP-96F" sceneMemberID="viewController">
+                <viewController title="Defense" id="0fN-TP-96F" customClass="DefenseViewController" customModule="draftchamps" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JHV-9j-NaU"/>
                         <viewControllerLayoutGuide type="bottom" id="ptF-9L-AVW"/>
